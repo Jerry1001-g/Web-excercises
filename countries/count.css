@@ -32,7 +32,7 @@ section:nth-of-type(4){
     width: 80%;
     height: 400px;
     margin: 25px auto;
-    background-image:linear-gradient(180deg, green 30%, yellow 30%, yellow 60%, blue 60%, blue 90%);
+    background-image:linear-gradient(180deg, green 30%, yellow 30%, yellow 60%, blue 60%, blue 80%);
 }
 section:nth-of-type(5){
     width: 80%;
